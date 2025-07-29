@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://javiferfer.github.io
+> https://GabrielGut.github.io
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/javiferfer/javiferfer.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://javiferfer.github.io/)
@@ -17,7 +17,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://javiferfer.github.io/)**
+To view a live example, **[click here](https://GabrielGut.github.io/)**
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
